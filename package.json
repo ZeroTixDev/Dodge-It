@@ -1,0 +1,24 @@
+{
+  "name": "dodge-it",
+  "version": "1.0.0",
+  "description": "A fun game where you beat areas and dodge enemies",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeroTixDev/Dodge-It.git"
+  },
+  "author": "ZeroTix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeroTixDev/Dodge-It/issues"
+  },
+  "homepage": "https://github.com/ZeroTixDev/Dodge-It#readme"
+}
